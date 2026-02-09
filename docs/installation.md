@@ -30,7 +30,7 @@ Before installing, ensure you have:
 ```bash
 # Clone to a temporary location
 cd /tmp
-git clone https://github.com/[your-username]/pai-memory-enhancement
+git clone https://github.com/menewanalyser/pai-memory-enhancement
 cd pai-memory-enhancement
 ```
 

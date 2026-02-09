@@ -20,7 +20,7 @@ After one week of operation:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/[your-username]/pai-memory-enhancement
+git clone https://github.com/menewanalyser/pai-memory-enhancement
 cd pai-memory-enhancement
 
 # 2. Install dependencies (requires bun)
@@ -197,8 +197,8 @@ Thanks to Daniel for creating PAI - the foundation that made this enhancement po
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/[your-username]/pai-memory-enhancement/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/[your-username]/pai-memory-enhancement/discussions)
+- **Issues:** [GitHub Issues](https://github.com/menewanalyser/pai-memory-enhancement/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/menewanalyser/pai-memory-enhancement/discussions)
 - **PAI Community:** [PAI Repository](https://github.com/danielmiessler/PAI)
 
 ---
