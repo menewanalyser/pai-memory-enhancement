@@ -2,7 +2,7 @@
 
 A four-tier memory system for Claude Code (Personal AI Infrastructure) enabling cross-session intelligence and pattern recognition.
 
-**By:** AI Security Researcher with AI Assistant
+**By:** Wayne with LARS (AI Assistant)
 **Based on:** [Personal AI Infrastructure (PAI)](https://github.com/danielmiessler/PAI) by Daniel Miessler
 
 ---
@@ -188,7 +188,7 @@ MIT License - See LICENSE file for details
 
 ## 🙏 Credits
 
-**Developed by:** AI Security Researcher (with AI Assistant)
+**Developed by:** Wayne with LARS (AI Assistant)
 
 **Based on:** [Personal AI Infrastructure (PAI)](https://github.com/danielmiessler/PAI)
 **Created by:** Daniel Miessler
