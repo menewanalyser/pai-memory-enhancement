@@ -1,0 +1,30 @@
+# Node/Bun
+node_modules/
+bun.lockb
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build
+dist/
+build/
+
+# Temp
+tmp/
+temp/
+*.tmp
+
+# Local testing
+test-memory/
+.test/
